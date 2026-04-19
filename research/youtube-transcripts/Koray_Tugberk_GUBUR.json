@@ -1,0 +1,37 @@
+{
+  "expert": "Koray Tugberk GUBUR",
+  "channel_id": "UCXTg_CjVldLQ1RH8jxTTqiw",
+  "channel_url": "https://www.youtube.com/channel/UCXTg_CjVldLQ1RH8jxTTqiw",
+  "latest_video_date": "2026-02-03",
+  "collected_at": "2026-04-20T01:09:04.261720",
+  "collection_note": "fallback-latest-5",
+  "videos": [
+    {
+      "title": "New SEO Case Studies are coming",
+      "url": "https://www.youtube.com/watch?v=oIoJJS8jWlw",
+      "published_at": "2026-02-03T22:56:45Z",
+      "relevant": false,
+      "transcript_chars": 3,
+      "transcript": [
+        {
+          "lang": "en",
+          "text": "One white and one black hat had SEOs",
+          "offset": 1040,
+          "duration": 5520
+        },
+        {
+          "lang": "en",
+          "text": "here. They're helping me for every case",
+          "offset": 4400,
+          "duration": 5160
+        },
+        {
+          "lang": "en",
+          "text": "study.",
+          "offset": 6560,
+          "duration": 3000
+        }
+      ]
+    }
+  ]
+}
