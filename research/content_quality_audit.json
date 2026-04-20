@@ -1,0 +1,178 @@
+[
+  {
+    "TOPIC_RELEVANCE_SCORE": 6,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Content focuses on 'AI search winning brands' and how to optimize for AI-powered search platforms that cite and recommend content",
+      "Discusses 'conversational commerce attributes' and optimization for 'AI Mode, Gemini, and Business Agent interactions' in ecommerce",
+      "Addresses how 'AI systems tend to surface content that demonstrates clear utility' and what gets cited in AI-generated responses"
+    ],
+    "ORIGINAL_RESEARCH": "partial",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Creates 'The AI Search Winning Brands Assessment Checklist' - a practical framework with specific characteristics, goals, and validation methods for auditing AI search performance",
+    "DEPTH_SCORE": 8,
+    "DEPTH_EVIDENCE": "Provides comprehensive implementation details including specific technical requirements (server-side rendering, structured data validation), verification methods (Google Search Console, crawlers like Screaming Frog), and actionable optimization steps for each characteristic",
+    "UNIQUE_ANGLE": "Brings a technical SEO audit perspective to AI search optimization, focusing on the infrastructure and data requirements that enable AI systems to discover, crawl, and cite content effectively.",
+    "PLAYBOOK_VALUE": 7,
+    "VALIDATION_VERDICT": "BORDERLINE",
+    "VERDICT_REASONING": "Strong technical expertise in optimizing content for AI search platforms and comprehensive frameworks, but focuses more on optimizing existing content for AI discovery rather than AI-powered content production workflows. Content is highly actionable but addresses the consumption side of AI search rather than the creation side of AI-powered content.",
+    "expert": "Aleyda Solís",
+    "expert_key": "aleyda_solis"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 7,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Analyzes how LLMs select and cite content sources: '44.2% of all LLM citations come from the first 30% of a page's text, meaning you need the direct, extractable answer in your first 40-60 words'",
+      "Studies content optimization for AI visibility: 'content depth, comprehensiveness, and readability have the biggest impact on LLM visibility'",
+      "Provides actionable AI search optimization tactics: 'Declarative opening sentences drive a 14% increase in citation rates'"
+    ],
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducted comprehensive studies including analyzing 1.2 million ChatGPT responses, over 7,000 citations across AI platforms, and AI research across 7 sectors (B2B SaaS, Finance, Health, Education, Crypto, HR Tech, Product Analytics)",
+    "DEPTH_SCORE": 9,
+    "DEPTH_EVIDENCE": "Provides highly specific, data-driven insights like 'ChatGPT retrieves about 6x more pages than it cites' and 'Among pages ranking #1 in Google, 43.2% were cited by ChatGPT—3.5 times higher than the citation rate for pages ranking beyond Google's top 20 results'",
+    "UNIQUE_ANGLE": "Indig brings a data-scientist approach to AI search optimization, conducting large-scale empirical studies to understand how AI models actually select and cite sources, rather than relying on speculation or theory.",
+    "PLAYBOOK_VALUE": 9,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "Indig produces high-quality original research specifically focused on optimizing content for AI search systems. His data-driven insights provide actionable tactics for AI-powered SEO content production, though the focus is more on optimizing existing content for AI visibility rather than using AI tools in content creation workflows.",
+    "expert": "Kevin Indig",
+    "expert_key": "kevin_indig"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 6,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "The article 'The AI Slop Loop' directly addresses AI content generation problems where 'fabricated content remaining indexed and being used as source material for new AI-generated content, creating a self-perpetuating cycle of false information'",
+      "Discussion of GEO (Generative Engine Optimization) strategies and their impact on traditional SEO performance shows understanding of AI-powered search evolution",
+      "LinkedIn post about correlation between AI search citations and SEO rankings: 'there is a strong correlation between top-performing citations in AI search and top-ranking URLs in search results. Because that's literally how RAG works'"
+    ],
+    "ORIGINAL_RESEARCH": "partial",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Identified and tracked the fabricated 'September 2025 Google Perspectives update' across multiple AI systems, demonstrating original investigation into AI content misinformation cycles rather than just commentary",
+    "DEPTH_SCORE": 7,
+    "DEPTH_EVIDENCE": "The 'AI Slop Loop' analysis goes beyond surface observations to explain the technical mechanism of how AI-generated misinformation perpetuates through RAG systems and indexing, showing understanding of underlying technical processes",
+    "UNIQUE_ANGLE": "Brings a critical quality control perspective to AI-SEO intersection, focusing on the risks and negative consequences of AI content strategies rather than just optimization opportunities.",
+    "PLAYBOOK_VALUE": 7,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "While not exclusively focused on AI-powered SEO content production, Ray demonstrates deep understanding of the intersection between AI systems and SEO. Her critical analysis of AI content quality issues and GEO strategy impacts provides valuable cautionary insights essential for any comprehensive AI-SEO playbook.",
+    "expert": "Lily Ray",
+    "expert_key": "lily_ray"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 3,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Discusses ChatGPT's search volume vs Google but focuses on traffic distribution rather than content production workflows",
+      "Mentions AI search behavior changes and longer queries but doesn't connect to SEO content creation strategies",
+      "AI Overviews positioning analysis is about SERP features, not how to optimize AI-powered content production"
+    ],
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducts original data analysis on ChatGPT vs Google search volumes (2.5 billion vs 13.7 billion daily), anonymized queries comprising 46.77% of GSC traffic, and AI Overviews appearing outside position #1 in 8.64% of cases",
+    "DEPTH_SCORE": 8,
+    "DEPTH_EVIDENCE": "Provides specific statistical analysis with CTR comparisons (Google 29.2% vs ChatGPT 1.3%), defines Google's anonymized query methodology, and offers technical solutions like Ahrefs' Anonymous Queries report",
+    "UNIQUE_ANGLE": "Brings a data-driven, technical SEO perspective with access to large-scale search data and focuses on the measurable impact of AI search on traditional SEO metrics and website traffic patterns.",
+    "PLAYBOOK_VALUE": 4,
+    "VALIDATION_VERDICT": "REPLACE",
+    "VERDICT_REASONING": "While Patrick provides excellent technical SEO research and data analysis, his content focuses primarily on AI's impact on search behavior and traffic rather than AI-powered content production workflows. His expertise is more aligned with technical SEO measurement than content creation strategies.",
+    "expert": "Patrick Stox",
+    "expert_key": "patrick_stox"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 7,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Carter discusses 'optimizations for LLMs can deliver significant visibility improvements independent of Google rankings, noting a 15% uplift in LLM visibility achieved within a week'",
+      "Article covers 'strategies for optimizing brand entity recognition in AI search platforms, managing visibility across ChatGPT, Google AI Overviews, Perplexity, and other LLMs'",
+      "Discusses 'content structuring, source selection by LLMs, and tactics for improving likelihood of citation in AI responses'"
+    ],
+    "ORIGINAL_RESEARCH": "partial",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Carter appears to have developed the GEO (Generative Engine Optimization) framework and reports specific metrics like '15% uplift in LLM visibility achieved within a week', suggesting original testing and measurement approaches",
+    "DEPTH_SCORE": 6,
+    "DEPTH_EVIDENCE": "While Carter covers strategic concepts like brand entity management and cross-channel optimization, the content summaries suggest more strategic overview rather than granular tactical implementation details for AI-powered content workflows",
+    "UNIQUE_ANGLE": "Carter focuses specifically on Generative Engine Optimization (GEO) as a distinct discipline from traditional SEO, emphasizing optimization for AI citations and mentions rather than just search rankings.",
+    "PLAYBOOK_VALUE": 7,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "Carter demonstrates strong expertise in the evolving intersection of AI and SEO with original framework development (GEO) and measurable results. While the content leans more toward AI search optimization than content production workflows specifically, the strategic insights on optimizing for LLMs and AI platforms provide valuable foundational knowledge for AI-powered SEO content strategies.",
+    "expert": "Crystal Carter",
+    "expert_key": "crystal_carter"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 7,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Discusses AI Mode and AI Overviews directly answering questions instead of traditional search results, impacting how content should be created for discoverability",
+      "Explores using Claude and Antigravity tools to analyze GA4 data for determining blog content effectiveness",
+      "Mentions Chrome's Gemini integration changing how people search and interact with content across tabs and Google Docs"
+    ],
+    "ORIGINAL_RESEARCH": "partial",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducted analysis with Claude and Antigravity tools to examine GA4 data for three clients to determine if blog content was driving conversions, finding that most blog content wasn't driving meaningful business change",
+    "DEPTH_SCORE": 6,
+    "DEPTH_EVIDENCE": "Provides strategic insights about the changing purpose of blogs in agentic search era but lacks specific tactical guidance on how to adapt content production workflows or optimize content for AI systems",
+    "UNIQUE_ANGLE": "Focuses on the strategic business impact and ROI of content in an AI-first search environment, questioning fundamental assumptions about why we create content rather than just how to optimize it.",
+    "PLAYBOOK_VALUE": 6,
+    "VALIDATION_VERDICT": "BORDERLINE",
+    "VERDICT_REASONING": "While Marie provides valuable strategic insights about AI's impact on search and content strategy, her content is more focused on high-level implications rather than tactical AI-powered content production workflows. Her client work analyzing content effectiveness with AI tools shows practical application, but the content lacks specific methodologies for using AI in content creation processes.",
+    "expert": "Marie Haynes",
+    "expert_key": "marie_haynes"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 7,
+    "TOPIC_RELEVANCE_EVIDENCE": "Created 'an AI-powered tool using Google Colab notebooks to help gather comments from specific Reddit posts, generate keyword insights, and extract broader information for any topic' showing direct AI tool application for SEO content research. Provides 'Actionable AI For Marketers Course' focused on practical AI implementation. However, much content focuses on AI's impact on search results rather than AI-powered content production workflows.",
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducted original research on Google's AI Mode showing 'brands earning both mentions and direct citations show 40% higher likelihood of consistent visibility in AI-generated answers' and discovered that 'every single URL appearing in LLM output comes from search engine APIs (Google or Bing), not native LLM knowledge.'",
+    "DEPTH_SCORE": 8,
+    "DEPTH_EVIDENCE": "Provides specific, actionable frameworks like 'building entity moats through strategic data naming—creating unique branded datasets and metrics that AI systems cannot ignore or synthesize without citing the source' and develops actual tools (Google Colab notebooks) with both code and no-code options for implementation.",
+    "UNIQUE_ANGLE": "Focuses on building 'entity moats' and brand authority for AI systems rather than traditional ranking optimization, emphasizing how AI associates brands with topics through mentions and citations rather than just backlinks.",
+    "PLAYBOOK_VALUE": 8,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "Strong combination of original research, practical tool development, and actionable frameworks specifically for AI-SEO intersection. While some content focuses more on AI's impact on search than content production, she demonstrates clear expertise in building AI tools for marketers and understanding how AI systems process and cite content.",
+    "expert": "Britney Muller",
+    "expert_key": "britney_muller"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 8,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Created 'Koray's Agents' - an extensive collection of 48 AI agents (custom ChatGPT tools) designed specifically for semantic SEO professionals, covering linguistic analysis, semantic extraction, entity mapping, and SEO auditing",
+      "Discusses how AI is fundamentally changing search optimization and the transition from traditional SEO to AI-driven search optimization (AEO - AI Engine Optimization)",
+      "Explains how large language models interpret content and the importance of semantic clarity for AI-based search engines"
+    ],
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Developed the 'Topical Authority 2.0' framework with the foundational formula: Topical Authority = Topical Coverage + Historical Data, and created 48 custom AI agents specifically for semantic SEO workflows",
+    "DEPTH_SCORE": 9,
+    "DEPTH_EVIDENCE": "Provides highly specific, actionable frameworks like the 'six pillars of success' with 'Topical Map First' methodology, and demonstrates concrete results with a case study showing +4,728% increase in clicks. Created a comprehensive 87-lecture course totaling over 9 hours of training content.",
+    "UNIQUE_ANGLE": "Combines deep semantic SEO expertise with practical AI tool development, creating custom AI agents specifically for SEO workflows rather than just discussing AI's impact on SEO conceptually.",
+    "PLAYBOOK_VALUE": 9,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "This expert demonstrates exceptional depth in AI-powered SEO content production through original framework development, custom AI agent creation, and proven methodologies. His focus on semantic SEO combined with practical AI implementation makes him highly valuable for building comprehensive playbooks in this space.",
+    "expert": "Koray Tuğberk GÜBÜR",
+    "expert_key": "koray_tugberk"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 7,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Article 'AI Content Wasn't Good Enough. Now It Is.' directly addresses the evolution of AI-generated content quality for SEO purposes",
+      "The survey finding that '87% of marketers used generative AI to help create content' shows focus on AI content production workflows",
+      "YouTube content discusses using AI to analyze sales conversation transcripts for content research: 'I will upload them to an LLM and then ask these traditional marketing and product questions'"
+    ],
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducted original study analyzing 146 million SERPs to identify AI Overview trigger factors across 86 different keyword traits, and separate research on AI Overview click-through rate impacts using 300,000 keywords from Ahrefs database",
+    "DEPTH_SCORE": 8,
+    "DEPTH_EVIDENCE": "Provides specific methodological details like analyzing '146 million SERPs' with '86 different keyword traits' and quantified findings such as '58% lower average clickthrough rate' with position-specific data (0.073 to 0.016 CTR drop)",
+    "UNIQUE_ANGLE": "Ryan combines large-scale data analysis capabilities from Ahrefs with practical AI content production insights, offering both macro-level industry trends and tactical implementation advice for AI-powered SEO workflows.",
+    "PLAYBOOK_VALUE": 8,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "Ryan demonstrates strong expertise in both AI content production and data-driven SEO analysis. His original research provides quantified insights into AI's impact on search, while his content covers practical applications of AI tools in content workflows. The combination of research rigor and tactical advice makes him valuable for a comprehensive playbook.",
+    "expert": "Ryan Law",
+    "expert_key": "ryan_law"
+  },
+  {
+    "TOPIC_RELEVANCE_SCORE": 9,
+    "TOPIC_RELEVANCE_EVIDENCE": [
+      "Conducted a comprehensive SEO case study analyzing 487 Google search results to determine whether Google penalizes AI-generated content, finding that 83% of top-ranking results use human-generated content but Google doesn't explicitly penalize AI content itself",
+      "Tested 15 leading AI SEO tools specifically for content optimization, evaluating tools like Rankability that 'combines IBM Watson and Google NLP for exceptionally accurate keyword recommendations' and others for AI-powered content production",
+      "Emphasizes that 2026 SEO success requires 'balancing automation efficiency with content authenticity and value' and using 'AI-assisted content production rather than purely human or purely AI-generated content'"
+    ],
+    "ORIGINAL_RESEARCH": "yes",
+    "ORIGINAL_RESEARCH_EVIDENCE": "Conducted original case study analyzing 487 Google search results specifically to test AI content penalties, and performed hands-on testing of 15+ AI SEO tools with detailed capability analysis and price-to-value comparisons",
+    "DEPTH_SCORE": 8,
+    "DEPTH_EVIDENCE": "Goes beyond surface-level tool reviews to provide specific technical details like 'IBM Watson and Google NLP integration,' pricing analysis ($149/month vs $99/month vs $189/month), and strategic frameworks for combining AI efficiency with human oversight in content production workflows",
+    "UNIQUE_ANGLE": "Combines rigorous original research methodology with practical tool testing and focuses specifically on optimizing for multiple AI search platforms (ChatGPT, Gemini, Perplexity, Claude) beyond just traditional Google SEO.",
+    "PLAYBOOK_VALUE": 9,
+    "VALIDATION_VERDICT": "CONFIRM",
+    "VERDICT_REASONING": "Nathan Gotch demonstrates exceptional expertise in AI-powered SEO content production through original research, comprehensive tool testing, and practical frameworks. His content directly addresses the core challenges of using AI for SEO content while maintaining quality standards. The combination of data-driven insights and actionable recommendations makes this highly valuable for playbook development.",
+    "expert": "Nathan Gotch",
+    "expert_key": "nathan_gotch"
+  }
+]
