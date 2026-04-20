@@ -1,0 +1,44 @@
+{
+  "author": "Ryan Law",
+  "profile_url": "https://www.linkedin.com/in/thinkingslow",
+  "scraped_at": "2026-04-20",
+  "topic_filter": "AI SEO / GEO / LLM SEO / AI content strategy / AI search",
+  "notes": "Ryan leads content marketing at Ahrefs. Feed is heavily AI-content-tool focused.",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450925882803654656/",
+      "date": "3d",
+      "text": "who's at brightonSEO in a couple of weeks? come join me on Friday in the \"Understanding AI Behavior\" track, i promise we'll get real nerdy about RAG and query fan-out and chunking 🤓",
+      "likes": 35,
+      "comments": 7
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7447967518163353601/",
+      "date": "1w",
+      "text": "the Ahrefs blog team is having a hackathon next week. here's what i'm building: \n\n- full AI content creation system: from content gap analysis and keyword prioritisation through to internal linking, screenshot generation and formatting for publication\n- fully customisable: modify the skills files that power each stage of the workflow. upload samples of your best writing and preferred research sources\n- fully editable: kick off the generation process with as much or as little direction as you like, and edit the outputs at every stage of the process\n- connects to Ahrefs, GA, GSC and pull real data into the research and writing process\n- natural product mentions: reference a built-in product knowledgebase to suggest relevant Ahrefs products and features to incorporate into each article\n\nthe goal is a personalised AI copilot, for every person on my team, to suck the drudgery out of writing and creating search content :)\n\nand very soon, you will be able to make this for yourself: ahrefs.com/agent-a",
+      "likes": 192,
+      "comments": 21
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7446896436404830209/",
+      "date": "2w",
+      "text": "content leaders! i'm hosting an online panel discussion on AI content in a few weeks: who wants to join me as a panelist?\n\nvery relaxed, open discussion about all things AI content:\n- your current tools and processes (the nerdier the better),\n- the balance between AI-generated and human-created content,\n- the risk profile of AI content,\n- your plans for the future,\n- etc.\n\nyou'd be a great fit if you lead a content team at a SaaS company or agency and you've been elbows-deep in generative AI for a while :)\n\nwho's interested in joining me? who would you like to hear from?",
+      "likes": 224,
+      "comments": 143
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7442875512592596992/",
+      "date": "3w",
+      "text": "i built ANOTHER new tool: the internal links tool!\n\nfind high-value internal linking opportunities, analyze anchor text distribution, and get AI-powered placement suggestions.\n\ninternal linking is one of the most underrated levers in SEO. it distributes authority, helps Google discover pages, and keeps your readers engaged. but as much as i love writing new content, i hate linking back to it from our existing content :')\n\nso i built a tool that turns internal link optimization into a systematic workflow:\n\n→ ingest any XML sitemap and automatically process every page\n→ extract content, generate semantic embeddings, and map all existing internal links\n→ smart URL filtering strips out /wp-content/, pagination, feeds, and other junk automatically\n→ prioritize pages by a composite score: high external authority + few internal links = biggest opportunity\n→ get top-10 link recommendations for any page, ranked by semantic similarity\n→ click \"Suggest Placement\" and AI finds the best paragraph, writes natural anchor text, and gives you a ready-to-paste HTML snippet\n→ anchor text audit catches every \"click here\" and \"read more\" across your site, with AI-generated replacements\n→ automatic scanning detects newly published posts and generates linking recommendations before you even ask\n\n(pairs perfectly with the content updater i just shared—find what needs updating, then make sure it's properly linked to!)\n\nwant to try this for yourself? this (and much more) awaits you on the other side of this link:\n\nahrefs.com/agent-a",
+      "likes": 219,
+      "comments": 48
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7442515639111577600/",
+      "date": "3w",
+      "text": "i built a new tool: the automatic content updater! \n\nfind and fix outdated claims and statistics, naturally mention your latest products, and find and fill topic gaps.\n\nupdating blog content is one of the highest-ROI activities in content marketing. but nobody likes doing it, especially on a blog with 1,000+ articles, like ours :')\n\nso i built a tool that turns content maintenance into a guided, step-by-step workflow:\n\n→ paste any blog URL and extract the full article content\n→ automatically find outdated statistics and suggest replacements with sources\n→ check your product changelog and recommend natural feature mentions\n→ scrape top-ranking competitors and identify topic gaps you're missing\n→ generate new sections in your writing style for gaps you accept\n→ accept, reject, or edit every single suggestion before anything changes\n→ compile the final updated article and export in whatever format you like\n\ncrucially, this is designed as a counterpart to your human judgement and creative inclinations. guide the updating process with as much (or as little) context as you like, and review and improve any suggested updates directly in the editor.\n\n(unsurprisingly, this pairs extremely well with the content freshness tool i shared on Monday!)\n\nwant to try this for yourself? join the waitlist here:\n\nahrefs.com/agent-a",
+      "likes": 200,
+      "comments": 42
+    }
+  ]
+}

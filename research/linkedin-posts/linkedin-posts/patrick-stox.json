@@ -1,0 +1,52 @@
+{
+  "author": "Patrick Stox",
+  "profile_url": "https://www.linkedin.com/in/patrickstox",
+  "scraped_at": "2026-04-20",
+  "topic_filter": "AI SEO / GEO / LLM SEO / AI content strategy / AI search",
+  "notes": "Patrick's activity feed is dominated by reposts. Included are his most-recent original posts plus reposts where the shared content is explicitly about AI SEO/GEO/LLM topics. Entries marked is_repost=true were reposted (but not originally authored) by Patrick.",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7448460039960375296/",
+      "date": "1w",
+      "text": "The Difference Between SEO and GEO/AEO.\n\nWe've got the legendary Michael King in Raleigh to break it all down for you at the Triangle SEO Meetup. \n\n📅 Tues, April 14 | 6-8 PM \n📍 Pendo (downtown Raleigh)\nRSVP: https://luma.com/b4k0l0mj",
+      "likes": 14,
+      "comments": 0,
+      "is_repost": false
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7444569805078155264/",
+      "date": "2w",
+      "text": "One for the nitty gritty SEOers:\n\nHallucinated URLs - a link that AI makes up and dumps your user on a 404. \n\nI've seen them before (almost daily) without realising it was a thing, until Patrick Stox enlightened me at the Prosperity Media Sydney SEO Conference. \n\nI dug a little deeper and learnt that these fake little URLs can:\n\n💫 Signal user intent \n💫 Show you how LLMs frame the problem \n💫 Give you content ideas \n💫 If you have enough, with sufficient hits, they can be worth setting up 301s to relevant pages or creating content around them\n\nNot hugely strategic game changers but I find this nitty gritty SEO nerdery fascinating. \n\nHave you come across them before - and have you implented any into your site?",
+      "likes": 9,
+      "comments": 2,
+      "is_repost": true,
+      "original_author": "Rachel Green"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7444411590768001025/",
+      "date": "2w",
+      "text": "I was fortunate enough to sit down with the Technical SEO's, SEO. \n\nWe even got into something he mentioned he hasn't shared publicly before 👀\n\nPatrick Stox (Product Advisor, Technical SEO, and Brand Ambassador at Ahrefs) joined us on The Page 2 Podcast, and we went deep on where SEO is actually heading.\n\nAnd, we dig into everything that job title entails:\n\n✔️ Programmatic SEO isn't dead. ahrefs is driving millions of visits when done right.\n✔️ Rank tracking might never go back to what it was (position 20+ could be gone for good)\n✔️ AI isn't just hype anymore, it's legitimately replacing parts of workflows\n✔️ There's real fear in the industry about what happens to SEO jobs next\n\n🎧 Give the episode a listen and let me know what you think: https://lnkd.in/gYwYx8y3\n\n👉 And don't forget to subscribe for more conversations like this!",
+      "likes": 17,
+      "comments": 1,
+      "is_repost": true,
+      "original_author": "Jonathan Clark"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7444398774640336897/",
+      "date": "3w",
+      "text": "Have y'all checked out Bot Analytics in Ahrefs yet? \n\nWe released a new tool that shows how bots crawl your website. Bot Analytics collects data server-side via Cloudflare integration, but we will add more integrations based on demand.",
+      "likes": 51,
+      "comments": 2,
+      "is_repost": false
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7442612169180893184/",
+      "date": "3w",
+      "text": "The future is coming. \n\nSign up for the waitlist: https://lnkd.in/dthd-Ke4 (The AI Marketing Agent Powered by Ahrefs Data)",
+      "likes": 197,
+      "comments": 6,
+      "is_repost": true,
+      "original_author": "Ahrefs"
+    }
+  ]
+}

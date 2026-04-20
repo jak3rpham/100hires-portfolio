@@ -1,0 +1,44 @@
+{
+  "author": "Lily Ray",
+  "profile_url": "https://www.linkedin.com/in/lily-ray-44755615",
+  "scraped_at": "2026-04-20",
+  "topic_filter": "AI SEO / GEO / LLM SEO / AI content strategy / AI search",
+  "notes": "The profile URL in the original list (lily-ray-44a9b369) was a 404; the correct vanity slug is lily-ray-44755615.",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7451680732306997248/",
+      "date": "22h",
+      "text": "Check out this new summary and thorough analysis by Gianluca Fiorelli about the recent Cheeky Pint podcast interview with Google CEO, Sundar Pichai.\n\nTwo very important sections for SEOs:\n\n\"In 72 minutes about the future of Search in April 2026, the CEO of Alphabet did not address: publisher traffic impact from AI Overviews, content-creator economics or attribution mechanisms in AI Mode, ads monetization strategy within Gemini or AI surfaces, Chrome's role as an agentic distribution platform, Android as an AI distribution channel, or the DOJ, CMA, and EU antitrust proceedings that directly affect how these products can be deployed.\"\n\nAnd…\n\n\"When a CEO spends an hour describing a future where Search becomes an agent manager while $175–185 billion flows into agentic AI infrastructure, and declines to make a single binding statement about the publishers and businesses that feed that's a strategic position. It tells you where the company's priorities are, and where they aren't.\"",
+      "likes": 47,
+      "comments": 10
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450920000544055297/",
+      "date": "3d",
+      "text": "What David said below is my first thought whenever I read new studies about \"what works in AI search.\"\n\nThe outcome almost always represents something that is also essential for SEO, and I think the more plausible explanation is that there is a strong correlation between top-performing citations in AI search and top-ranking URLs in search results.\n\nBecause that's literally how RAG works.\n\nI'm not saying these studies aren't helpful; if anything, they help validate the things we should be focused on for overall search visibility. \n\nBut I see it as the classic question of correlation vs. causation: Do LLMs actually \"prefer\" optimized titles, clear headings, and helpful FAQs on their own? Or are those just common features of content that ranks well, and therefore content RAG is more likely to surface in the first place?\n\nThere's probably some truth to both. Structural clarity likely does help at the synthesis stage - well-organized content is easier for an LLM to parse, extract from, and cite accurately. \n\nBut I believe that's a much smaller effect than what most of these studies imply. The retrieval layer is doing the heavy lifting, and retrieval is largely downstream of SEO.\n\nSo when a study says \"LLMs love keyword-optimized URLs,\" I think the more accurate statement is: many pages that rank well tend to have well-optimized URLs, and pages that rank well get retrieved. The optimized URL isn't the cause - but it correlates with the thing that actually is.",
+      "likes": 112,
+      "comments": 16
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7449931419956490240/",
+      "date": "5d",
+      "text": "Last year, I asked Perplexity about the latest SEO/AI search updates. It confidently told me about the September 2025 \"Perspectives\" Core Update.\n\nThe problem? That update never happened. It doesn't exist. It was fabricated by AI-generated content on agency blogs, cited by other AI-generated content, and eventually treated as fact by multiple LLMs.\n\nTo this day, you can ask ChatGPT, AI Overviews, or AI Mode about it and they'll explain how this fictitious update \"fundamentally shifted how search results are ranked.\" 🙄 \n\nThis is what I'm calling the AI Slop Loop: one hallucination gets scraped, republished, cited, and fed back into the same systems that created it. The cycle compounds, and the misinformation becomes the official narrative across AI platforms.\n\nI spoke with journalists at the BBC and the New York Times about this problem and did some experiments to put it to the test. For one, I published a fake core update announcement on my blog and within 24 hours, AI Overviews, AI Mode, Gemini, and ChatGPT were serving it as fact.\n\nThe results are scary, and the implications for the vast majority of AI users are not good.\n\nI wrote the full breakdown on my latest Substack. Link in comments.",
+      "likes": 868,
+      "comments": 91
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7448873569368846336/",
+      "date": "1w",
+      "text": "Personalization in AI Mode, ChatGPT and other LLMs will solve many headaches for SEO professionals whose clients are always searching for their money keyword and asking \"why aren't we first?\"\n\nNow when you ask AI search which company, person, etc. is the best in its field, it personalizes results and often just says \"you/your company, of course\" 😂🤭",
+      "likes": 297,
+      "comments": 50
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7448440761383165952/",
+      "date": "1w",
+      "text": "Earlier this week, the NYT published an analysis finding that Google's AI Overviews get answers wrong somewhere between 9 and 15% of the time. \n\nIn the article, Google's mentioned that the BBC research about self-promoting listicles used \"unrealistic searches people wouldn't actually do.\" \n\nI want to push back on that framing, because I don't think it tells the fully story. \"Best CRM software\" and \"best AI chatbot\" are certainly not unusual searches. \n\nAnd at Google's scale, a 9% error rate works out to roughly *252 million wrong AI Overviews per day,* before you even account for the finding that 56% of the time Gemini gets something right, the sources it cites don't actually support the claim. (!!)\n\nI wrote up my full response, including what I believe Google should actually do differently (a girl can dream, lol). \n\nCheck it out - link in comments:",
+      "likes": 226,
+      "comments": 18
+    }
+  ]
+}

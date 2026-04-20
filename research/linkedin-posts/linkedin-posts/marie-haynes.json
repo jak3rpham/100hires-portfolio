@@ -1,0 +1,44 @@
+{
+  "author": "Marie Haynes",
+  "profile_url": "https://www.linkedin.com/in/marie-haynes",
+  "scraped_at": "2026-04-20",
+  "topic_filter": "AI SEO / GEO / LLM SEO / AI content strategy / AI search",
+  "notes": "The URL in the original list (mariehaynes) resolved to a different person (a lawyer). The correct slug for SEO expert Marie Haynes is marie-haynes.",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450931719446155264/",
+      "date": "2d",
+      "text": "Search is becoming agentic, task-oriented, and deeply integrated with AI that learns, improves, and even negotiates on our behalf. If you're feeling overwhelmed by how quickly AI is reshaping everything from SEO to web development, you're not alone!\n\nIn this episode I share about Gemini in Chrome, how I built a plant journal with Antigravity, UCP, WebMCP, WordPress' EmDash, Shopify's AI Toolkit, Andrej Karpathy's autoresearch and more.\n\nhttps://lnkd.in/eSfHWsSY",
+      "likes": 12,
+      "comments": 0
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450926214011207680/",
+      "date": "3d",
+      "text": "This week we saw so many things get set up as we transition to a new era of the web - the agentic web.\n\nI did something different with my newsletter this week. I asked Gemini to look at the transcripts from my client calls and Search Bar meetings and pull out the actionable topics I have been discussing. Then I used those to write a completely new kind of newsletter.\n\nIf you don't have time to read the full blog post, here are the important things to know:\n\n→Search is becoming an \"Agentic Manager\": Search engines are shifting from simply providing information to utilizing agents that actually get things done. If your search clicks are dropping, it's not likely because of bad SEO. It's probably because AI Mode and AI Overviews answering questions directly.\n\n→Gemini in Chrome is transforming workflows: Deep browser integration now allows users to converse with AI across multiple open tabs. Skills let you save and reuse prompts to automate repetitive tasks directly in your browser.\n\n→Google's Antigravity is a massive leap forward: This powerful agent manager is proving incredibly effective for building apps and workflows through simple, conversational prompts. This is not a popular opinion, but I like it better than Claude Code and ChatGPT Codex.\n\n→UCP and WebMCP offer a competitive edge: Universal Commerce Protocol (UCP) and WebMCP allow AI agents to natively interact with your website's tools and eCommerce functions. Implementing these early will likely give sites a massive advantage as agentic search becomes the norm.\n\n→Website management is becoming AI-driven: The way we build and optimize sites is fundamentally changing. With new AI-native tools (like EmDash and Shopify's AI toolkit) and concepts like Andrej Karpathy's autoresearch, we are moving toward an era where agents can continually test, learn, and improve websites autonomously.\n\nRead the full post here:\nhttps://lnkd.in/...",
+      "likes": 9,
+      "comments": 0
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450213709638955008/",
+      "date": "4d",
+      "text": "There is now a Gemini app for MacOS, always a keyboard shortcut away (option-space)\n\nYou can share anything on your screen with Gemini. \n\nIt's available to all Gemini users on MacOS versions 15 and up, free and paid and globally. \n\nMost important part of this announcement IMO is the last paragraph:\n\n\"We're starting today with an app that brings AI assistance right where your work happens, but this first release is just the beginning. We're building the foundation for a truly personal, proactive and powerful desktop assistant, with more news to share in the coming months.\"\n\nhttps://lnkd.in/eVYQjdYy\n\nDownload at https://gemini.google/mac/",
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7449900028065701888/",
+      "date": "5d",
+      "text": "Added a bunch of AI related changes to the algo update (and AI changes) list.\n\nThings like Gemini in Chrome, skills in Gemini in Chrome, the new Windows Google app and searches jumping straight to AI Mode when the AIO is expanded are going to change search traffic in ways that will be impossible to measure.\n\nhttps://lnkd.in/eSVU6Q_R",
+      "likes": 11,
+      "comments": 0
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450637352101793792/",
+      "date": "3d",
+      "text": "I'm rethinking the purpose of blogging...\n\nhttps://lnkd.in/eUZGq6Mw",
+      "likes": 10,
+      "comments": 2
+    }
+  ]
+}

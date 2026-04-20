@@ -1,0 +1,43 @@
+{
+  "author": "Kevin Indig",
+  "profile_url": "https://www.linkedin.com/in/kevinindig",
+  "scraped_at": "2026-04-20",
+  "topic_filter": "AI SEO / GEO / LLM SEO / AI content strategy / AI search",
+  "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7451974262686412800/",
+      "date": "2h",
+      "text": "We often assume that getting a link in an AI overview means people are seeing our brand. It turns out that might not always be the case.\n\nAI models often use content but do not explicitly name the creator. I analyzed Semrush data and found that around 62% of brand citations fly under the radar. The domain gets a source link, but the brand name is left out of the actual answer text.\n\nOnly about 13 percent of the appearances I looked at converted into both a citation and a mention.\n\nBeing cited generally means an AI is drawing on your content, while being mentioned means it is actually naming you. They are two distinct outcomes. Optimizing for a link might not automatically get your name in front of users, so it's worth considering both angles as you plan your content.\n\nFull breakdown in today's Growth Memo.",
+      "likes": 20,
+      "comments": 9
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450879511266664449/",
+      "date": "3d",
+      "text": "Too much of the AI search conversation is based on guesswork. Together with Minuttia, I'm trying to fix that.\n\nIf you work in SEO, AEO, content, or growth, please take 3 minutes to fill out our multiple-choice AEO Survey: https://tally.so/r/eq2GNx\n\nWe're turning the answers into a heavily researched report so we all have actual data to take to our clients and leadership.\n\nPerks for participating:\n\n1. An invite to a private live breakdown session on May 12th with Kevin Indig and George Chasiotis.\n\n2. A chance to win a 1-year Growth Memo subscription and a custom Minuttia AEO Report video walkthrough (10 winners drawn live!).\n\nAppreciate you taking the time!",
+      "likes": 48,
+      "comments": 20
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450521258842185728/",
+      "date": "4d",
+      "text": "An analysis of 6.8 million subheadings reveals a measurable correlation between specific heading structures and ChatGPT citation rates.\n\nWhile we often focus on overall word count or keyword density, subheading formatting appears to act as a significant sorting signal for AI retrieval systems.\n\nWe examined H2 to H4 headings across 815,000 query and page pairs to identify patterns associated with higher AI visibility.\n\nHere is what the data indicates:\n\n1. Question Formats Show Higher Alignment\nChatGPT fanout queries are frequently phrased as questions. Consequently, question style headings appear to align more naturally within the embedding space, matching fanout queries at 1.5x the rate of declarative headings.\n\n2. The 20 to 39 Character Range Yields Peak Rates\nHeading length shows a clear impact on performance. The 20 to 39 character range correlates with a peak citation rate of 32.7 percent. Conversely, headings over 60 characters correspond with a 6 percentage point drop in citation rates, while extremely short headings under 20 characters (like \"Overview\") exhibit poor matching capabilities.\n\nThe Practical Application:\nTesting a structure where a quarter to half of your subheadings are phrased as user questions is a data-backed starting point.\n\nFor example, \"What does X cost?\" shows better retrieval alignment than both the overly broad \"Pricing\" and the diluted \"A complete breakdown of pricing options for X\".\n\nStructuring your H2s to mirror natural user prompts rather than traditional blog titles may significantly improve your probability of being cited.\n\n(All details in this week's Growth Memo)",
+      "likes": 117,
+      "comments": 20
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450184624242192385/",
+      "date": "5d",
+      "text": "We analyzed 1.2M ChatGPT responses and found a simple pattern, strong intros drive more citations.",
+      "likes": 81,
+      "comments": 14
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7449792336324259841/",
+      "date": "6d",
+      "text": "The SEO assumption that comprehensive content performs better is completely wrong when it comes to ChatGPT citations.\n\nEvery \"best practice\" pushes you toward more: more subtopics, more sections, more words.\n\nWe analyzed 815,000 query and page pairs across 16,851 queries to see if this holds true for ChatGPT. The data says otherwise.\n\nThe \"ultimate guide\" strategy produces worse results than a focused article that covers two to three related angles well. In fact, moderate coverage of 26 to 50 percent of subtopics outperforms exhaustive coverage. Pages that cover everything score lower than pages that cover a quarter of the subtopics.\n\nThe pages that win consistently in ChatGPT are highly focused. They:\n\n1. Match the query directly in their headings\n2. Tend to be shorter, hitting a citation sweet spot between 500 and 2,000 words\n3. Maintain structure, using 7 to 20 subheadings to organize content without diluting it\n\nThe takeaway: Build the page that is the best answer to one question. Not the page that adequately answers twenty.\n\n(All details in this week's Growth Memo)",
+      "likes": 148,
+      "comments": 37
+    }
+  ]
+}
