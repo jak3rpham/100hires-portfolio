@@ -1,7 +1,0 @@
-{
-  "author": "Ryan Law",
-  "title": "Update: AI Overviews Reduce Clicks by 58%",
-  "url": "https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/",
-  "published_date": "2026-02-04",
-  "content": "Ahrefs found that the presence of an AI Overview now correlates with a 58% lower average clickthrough rate for the top-ranking page. This update ran their study using data from December 2025.\n\nMethodology: The research selected 300,000 keywords from Ahrefs Keywords Explorer database—150,000 with AI Overviews present and 150,000 informational keywords without—using aggregated Google Search Console data to calculate average desktop clickthrough rates.\n\nKey findings: The position one clickthrough rates for AI Overview keywords dropped from 0.073 in December 2023 to 0.016 in December 2025. In April 2025, Ahrefs found that AI Overviews reduced clicks to top-ranking content by 34.5%. Since the earlier study, AI Overviews have rolled out to more countries and languages, and many websites have continued to see clicks from organic search decline month-over-month."
-}

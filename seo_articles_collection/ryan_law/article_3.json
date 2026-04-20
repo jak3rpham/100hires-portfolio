@@ -1,7 +1,0 @@
-{
-  "author": "Ryan Law",
-  "title": "What Triggers AI Overviews? 86 Factors and 146 Million SERPs Analyzed",
-  "url": "https://ahrefs.com/blog/ai-overview-triggers/",
-  "published_date": "2025-11-10",
-  "content": "Ahrefs analyzed 146 million SERPs and explored how often AI Overviews appeared for 86 different keyword traits, from YMYL to CPC to query length.\n\nKey findings:\n\nOverall AI Overview Trigger Rate: AI Overviews appear on 20.5% of all SERPs (29,991,998 out of 146,122,391).\n\nIntent Type: 99.9% of keywords that trigger AI Overviews are Informational in intent.\n\nCategory Performance: The categories with highest AIO share are Science (43.6%), Health (43.0%), Pets & Animals (36.8%), and People & Society (35.3%), while the categories with lowest AIO share are Shopping (3.2%), Real Estate (5.8%), Sports (14.8%), and News (15.1%).\n\nMedical/YMYL Queries: AI Overviews trigger very frequently for YMYL queries, and especially medical YMYL queries."
-}

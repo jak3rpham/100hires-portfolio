@@ -1,7 +1,0 @@
-{
-  "author": "Kevin Indig",
-  "title": "The science of how AI picks its sources",
-  "url": "https://www.growth-memo.com/p/the-science-of-how-ai-picks-its-sources",
-  "published_date": "2026-03-23",
-  "content": "Kevin Indig analyzes 1.2 million ChatGPT responses to understand how AI reads pages and picks sources. This is Part 2 of a series on AI source selection. Key findings: Among pages ranking #1 in Google, 43.2% were cited by ChatGPT—3.5 times higher than the citation rate for pages ranking beyond Google's top 20 results. ChatGPT retrieves about 6x more pages than it cites. The article covers domain concentration across different verticals, with healthcare having the least concentration at 13.0% for the top 10%, meaning no single domain dominates and new entrants have a realistic path to citation reach. Part 1 of the series tells you where on a page AI looks, while Part 2 tells you which pages AI routinely considers for citation. This research provides actionable insights for optimizing content visibility in AI search systems. [Note: Full article is paywalled on Substack. Content extracted from publicly available summaries and search results.]"
-}
