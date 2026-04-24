@@ -1,17 +1,23 @@
 # AI-Powered SEO Content Production — Research Project
-**100Hires Portfolio Project | Step 2**
+**100Hires Portfolio Project | Step 3**
 **Researcher:** Pham Ngoc Thanh (jak3rpham)
-**Completed:** April 20, 2026
+**Completed:** April 25, 2026
 
 ---
 
 ## What This Project Is
 
-This repository contains a data-driven research project identifying, validating, and collecting content from the top 10 experts in AI-powered SEO content production.
-
-The goal: build a high-signal source library that can support a comprehensive playbook on how AI is transforming SEO content creation, distribution, and optimization.
+This repository contains a data-driven research project identifying, validating, and collecting content from the top 10 experts in AI-powered SEO content production — and a full playbook synthesizing that research into an operational guide.
 
 **Topic chosen:** AI-Powered SEO Content Production — selected from the 8 options because it directly maps to practitioner experience (200%+ organic traffic growth using AI-assisted content workflows) and because it sits at the highest-demand intersection in the current search marketing landscape.
+
+## Deliverables
+
+| File | Description |
+|------|-------------|
+| [`playbook.md`](./playbook.md) | AI-Powered SEO Content Production Playbook — full synthesis with citations, expert disagreements, original ideas, and limitations |
+| [`research/sources.md`](./research/sources.md) | Expert selection methodology, weighting framework, audit scores |
+| [`research/`](./research/) | All collected content: YouTube transcripts, LinkedIn posts, blog articles |
 
 ---
 
@@ -203,6 +209,7 @@ Expected contribution: Empirical baseline data on AI search traffic; AI Overview
 ```
 100hires-portfolio/
 ├── README.md                          # This file
+├── playbook.md                        # AI-Powered SEO Content Production Playbook
 ├── .gitignore                         # Excludes .env (API keys)
 │
 ├── scripts/
